@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiwon Jesse Han"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Jesse Han"
 description              : &description "bio of Astrophysics PhD student at Harvard University"
